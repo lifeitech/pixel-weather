@@ -17,7 +17,7 @@ On start, the app asks for user's current location. If granted, the app will fet
 
 Scan the QR code below to download and install the android distribution (`.apk`) on your phone.
 
-<img src="readme-images/app-qr-lifei.tech.png" style="zoom:80%;" />
+<img src="readme-images/qr.png" style="zoom:80%;" />
 
 ### iOS
 
