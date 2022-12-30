@@ -5,9 +5,9 @@ Pixel Weather is a minimal, simplistic and nostalgic weather app, built with [Ex
 On start, the app asks for user's current location. If granted, the app will fetch and display weather data for that location. Users can tap each stat to see corresponding weather forecasts.
 
 <p align="left">
-  <img alt="Light" src="readme-images/forecast.gif" zoom="80%">
+  <img alt="Light" src="readme-images/forecast.gif" style="zoom:80%;">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="readme-images/switch.gif" zoom="80%">
+  <img alt="Dark" src="readme-images/switch.gif" style="zoom:80%;">
 </p>
 
 
