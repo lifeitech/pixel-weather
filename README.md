@@ -21,7 +21,7 @@ Scan the QR code below to download and install the android distribution (`.apk`)
 
 ### iOS
 
-Download the latest release and open it in your iOS simulator.
+Download the [latest release](https://github.com/lifeitech/pixel-weather/releases/download/v1.0/iOS-PixelWeather1.0.tar). Extract and open it in your iOS simulator.
 
 ## Features
 
