@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Pixel Weather",
+    "slug": "pixel-weather",
+    "version": "1.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lifeitech.pixelweather"
+    },
+    "android": {
+      "icon": "./assets/logo.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-foreground.png",
+        "backgroundColor": "#000"
+      },
+      "backgroundColor": "#000",
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.lifeitech.pixelweather"
+    },
+    "plugins": [
+      "sentry-expo"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6f85fe7f-b6f8-4cd9-bc22-3c74afd9543c"
+      }
+    }
+  }
+}
