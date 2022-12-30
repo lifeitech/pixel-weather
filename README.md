@@ -4,11 +4,12 @@ Pixel Weather is a minimal, simplistic and nostalgic weather app, built with [Ex
 
 On start, the app asks for user's current location. If granted, the app will fetch and display weather data for that location. Users can tap each stat to see corresponding weather forecasts.
 
-<div style="display:flex;flex-direction:row;align-items:center;gap:50px;">
-<img src="readme-images/forecast.gif" style="zoom:80%;"/>
-<div style="border:0;padding-left:1px;background:linear-gradient(to bottom, transparent, #021C55, transparent);height:50vh;"></div>
-<img src="readme-images/switch.gif" style="zoom:80%;"/>
-</div>
+<p align="center">
+  <img alt="Light" src="readme-images/forecast.gif" zoom="80%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="readme-images/switch.gif" zoom="80%">
+</p>
+
 
 ## Download
 
@@ -86,50 +87,17 @@ This weather app uses data from the following two sources:
 
 ## More Screenshots
 
-<div style="display:flex;flex-direction:row;gap:20px;margin-bottom:50px">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/forecast-hourly.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">Hourly Forecast</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/wind.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">Wind Forecast</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/humidity.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">Humidity Forecast</span>
-    </div>
-</div>
+| Hourly Forecast | Wind Forecast | Humidity Forecast |
+| ------------- | ------------- | ------------- |
+| ![](readme-images/forecast-hourly.gif)  | ![](readme-images/forecast-hourly.gif)  | ![](readme-images/forecast-hourly.gif) |
 
-<div style="display:flex;flex-direction:row;gap:20px;margin-bottom:50px">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/addcity.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">Add City</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/delete.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">Delete City</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/air.gif" style="zoom:80%;"/>
-    <span style="font-weight:bold">AQI Info</span>
-    </div>
-</div>
+| Add City | Delete City | AQI Info |
+| ------------- | ------------- | ------------- |
+| ![](readme-images/addcity.gif)  | ![](readme-images/delete.gif)  | ![](readme-images/air.gif) |
 
-<div style="display:flex;flex-direction:row;gap:20px">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/light1.png" style="zoom:80%;"/>
-    <span style="font-weight:bold">Light theme, home</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/light2.png" style="zoom:80%;"/>
-    <span style="font-weight:bold">Light theme, humidity forecast</span>
-    </div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <img src="readme-images/light3.png" style="zoom:80%;"/>
-    <span style="font-weight:bold">Light theme, location panel</span>
-    </div>
-</div>
+| Light theme - home | Light theme - humidity forecast | Light theme - location panel |
+| ------------- | ------------- | ------------- |
+| ![](readme-images/light1.png)  | ![](readme-images/light2.png)  | ![](readme-images/light3.png) |
 
 
 ## TODO
