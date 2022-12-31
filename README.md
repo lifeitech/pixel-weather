@@ -25,12 +25,12 @@ Download the [latest release](https://github.com/lifeitech/pixel-weather/release
 
 ## Features
 
-- Big component sizes, designed for simplicity and accessibility.
-- Dark theme support.
-- Varying colors for different weather stat levels.
-- Display local time for cities around the world.
-- Provide daily forecast for up to 8 days, hourly forecast for up to 48 hours.
-- Provide air quality info.
+- 📱Big component sizes, designed for simplicity and accessibility.
+- 🌙Dark theme support.
+- 🍭Varying colors for different weather stat levels.
+- 🕓Display local time for cities around the world.
+- 📈Provide daily forecast for up to 8 days, hourly forecast for up to 48 hours.
+- 🌫Provide air quality info.
 
 ## Dependencies
 
