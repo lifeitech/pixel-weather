@@ -15,7 +15,7 @@ On start, the app asks for user's current location. If granted, the app will fet
 
 ### Android
 
-Scan the QR code below to download and install the android distribution (`.apk`) on your phone.
+Scan the QR code below to download and install the android distribution (`.apk`) on your phone. Tested on Samsung A52G.
 
 <img src="readme-images/qr.png" style="zoom:80%;" />
 
