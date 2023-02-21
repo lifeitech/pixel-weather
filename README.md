@@ -10,19 +10,6 @@ On start, the app asks for user's current location. If granted, the app will fet
   <img alt="App Demo Switch Cities" src="readme-images/switch.gif" style="zoom:80%;">
 </p>
 
-
-## Download
-
-### Android
-
-Scan the QR code below to download and install the android distribution (`.apk`) on your phone. Tested on Samsung A52G.
-
-<img alt="qr code for downloading the app" src="readme-images/qr.png" style="zoom:80%;" />
-
-### iOS
-
-Download the [latest release](https://github.com/lifeitech/pixel-weather/releases/download/v1.0/iOS-PixelWeather1.0.tar). Extract and open it in your iOS simulator.
-
 ## Features
 
 - 📱Big component sizes, designed for simplicity and accessibility.
