@@ -1,6 +1,6 @@
 # Pixel Weather
 
-Pixel Weather is a minimal, simplistic and nostalgic weather app, built with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/).
+Pixel Weather is a minimal weather app, built with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/).
 
 On start, the app asks for user's current location. If granted, the app will fetch and display weather data for that location. Users can tap each stat to see corresponding weather forecasts.
 
