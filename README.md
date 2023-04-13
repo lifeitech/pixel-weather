@@ -75,7 +75,7 @@ This weather app uses data from the following two sources:
 5. Run 
 
     ```shell
-    eas build --platform android
+    eas build --profile preview --platform android
     ``` 
 
     to build the android app. After completion, go to [expo.dev](https://expo.dev) to download the `.apk` file.
