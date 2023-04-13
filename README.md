@@ -69,8 +69,16 @@ This weather app uses data from the following two sources:
     expo start
     ```
 
-    You will then see a QR code in the terminal. Open the [Expo Go](https://expo.dev/client) app on your phone, scan the QR code to run this project on your phone. 
+    You will then see a QR code in the terminal. Open the [Expo Go](https://expo.dev/client) app, scan the QR code to run this project on your phone. 
 
+
+5. Run 
+
+    ```shell
+    eas build --platform android
+    ``` 
+
+    to build the android app. After completion, go to [expo.dev](https://expo.dev) to download the `.apk` file.
 
 ## More Screenshots
 

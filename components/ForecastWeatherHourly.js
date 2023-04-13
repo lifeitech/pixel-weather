@@ -62,7 +62,7 @@ function Vertical({item, min, max}){
     hour: {
       fontSize: 14,
       color: hour == 0 ? "#00E22B" : theme.colors.text,
-      fontWeight: hour == 0 ? "bold" : "",
+      fontWeight: hour == 0 ? "bold" : "regular",
     },
   })
 
